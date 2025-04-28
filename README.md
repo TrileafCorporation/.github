@@ -1,2 +1,2 @@
 # GH_Org_Landing
-Organization Home Page
+Banner for landing page of GitHub Organization
